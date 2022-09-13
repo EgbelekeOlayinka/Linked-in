@@ -1,0 +1,9 @@
+#left {
+  text-align: left;
+  text-decoration: none;
+}
+
+div {
+  text-align: left;
+  flex: none;
+}
